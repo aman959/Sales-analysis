@@ -5,9 +5,9 @@
 ## Student Details
 | Field | Details |
 |--------------|-------------------------------------------|
-| Name | Samir Singh |
-| Roll Number | 2328117 |
-| Program | Computer Science and System Engineering |
+| Name | Aman kumar gope  |
+| Roll Number | 2329009 |
+| Program | Computer Science and communication Engineering |
 | Project | Sales Analysis Dashboard |
 ## Project Description
 An end-to-end Power BI capstone project that transforms raw retail
