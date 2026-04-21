@@ -40,7 +40,7 @@ Rows: ~9,994 | Columns: 21 | Period: 2014-2017
 4. Use the slicers to filter by Region, Category, or Date
 5. Hover over charts for detailed tooltips
 ## Project Structure
-SalesDashboard-2328117/
+SalesDashboard-2329009/
  SalesAnalysisDashboard.pbix <- Power BI file 
  Superstore.csv <- Dataset 
  Presentation.pptx <- PPT slides 
@@ -65,4 +65,4 @@ Computer Science and System Engineering | Roll No: 2328117 Page 22
 4. November-December consistently show peak sales
 5. 20-25% consistent YoY sales growth (2014-2017)
 ---
-Submitted as a Final Capstone Project |Samir Singh |Roll No: 2328117
+Submitted as a Final Capstone Project |Aman kumar gope  |Roll No: 2329009
